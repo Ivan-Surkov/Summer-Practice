@@ -1,0 +1,13 @@
+C:\Users\Ivan1\source\repos\задача 6\bin\Debug\netcoreapp3.1\задача 6.exe
+C:\Users\Ivan1\source\repos\задача 6\bin\Debug\netcoreapp3.1\задача 6.deps.json
+C:\Users\Ivan1\source\repos\задача 6\bin\Debug\netcoreapp3.1\задача 6.runtimeconfig.json
+C:\Users\Ivan1\source\repos\задача 6\bin\Debug\netcoreapp3.1\задача 6.runtimeconfig.dev.json
+C:\Users\Ivan1\source\repos\задача 6\bin\Debug\netcoreapp3.1\задача 6.dll
+C:\Users\Ivan1\source\repos\задача 6\bin\Debug\netcoreapp3.1\задача 6.pdb
+C:\Users\Ivan1\source\repos\задача 6\obj\Debug\netcoreapp3.1\задача 6.csprojAssemblyReference.cache
+C:\Users\Ivan1\source\repos\задача 6\obj\Debug\netcoreapp3.1\задача 6.csproj.CoreCompileInputs.cache
+C:\Users\Ivan1\source\repos\задача 6\obj\Debug\netcoreapp3.1\задача 6.AssemblyInfoInputs.cache
+C:\Users\Ivan1\source\repos\задача 6\obj\Debug\netcoreapp3.1\задача 6.AssemblyInfo.cs
+C:\Users\Ivan1\source\repos\задача 6\obj\Debug\netcoreapp3.1\задача 6.dll
+C:\Users\Ivan1\source\repos\задача 6\obj\Debug\netcoreapp3.1\задача 6.pdb
+C:\Users\Ivan1\source\repos\задача 6\obj\Debug\netcoreapp3.1\задача 6.genruntimeconfig.cache
